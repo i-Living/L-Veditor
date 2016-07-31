@@ -1,0 +1,223 @@
+E:\Mega\Study\Технологии обработки информации\L Veditor\L Veditor\bin\Debug\L Veditor.exe.config
+E:\Mega\Study\Технологии обработки информации\L Veditor\L Veditor\obj\Debug\L Veditor.csprojResolveAssemblyReference.cache
+E:\Mega\Study\Технологии обработки информации\L Veditor\L Veditor\obj\Debug\L_Veditor.Properties.Resources.resources
+E:\Mega\Study\Технологии обработки информации\L Veditor\L Veditor\obj\Debug\L Veditor.csproj.GenerateResource.Cache
+E:\Mega\Study\Технологии обработки информации\L Veditor\L Veditor\bin\Debug\L Veditor.exe
+E:\Mega\Study\Технологии обработки информации\L Veditor\L Veditor\bin\Debug\L Veditor.pdb
+E:\Mega\Study\Технологии обработки информации\L Veditor\L Veditor\obj\Debug\L Veditor.exe
+E:\Mega\Study\Технологии обработки информации\L Veditor\L Veditor\obj\Debug\L Veditor.pdb
+E:\Mega\Study\Технологии обработки информации\L Veditor\L Veditor\obj\Debug\L_Veditor.Form1.resources
+E:\Mega\Study\Технологии программирования\L Veditor\L Veditor\bin\Debug\L Veditor.exe.config
+E:\Mega\Study\Технологии программирования\L Veditor\L Veditor\obj\Debug\L Veditor.exe
+E:\Mega\Study\Технологии программирования\L Veditor\L Veditor\obj\Debug\L Veditor.pdb
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\L Veditor\L Veditor\bin\Debug\L Veditor.exe.config
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\L Veditor\L Veditor\obj\Debug\L Veditor.exe
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\L Veditor\L Veditor\obj\Debug\L Veditor.pdb
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\L Veditor\L Veditor\obj\Debug\L Veditor.csprojResolveAssemblyReference.cache
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\L Veditor\L Veditor\obj\Debug\L_Veditor.Form1.resources
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\L Veditor\L Veditor\obj\Debug\L_Veditor.Properties.Resources.resources
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\L Veditor\L Veditor\obj\Debug\L Veditor.csproj.GenerateResource.Cache
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\L Veditor\L Veditor\bin\Debug\L Veditor.exe
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\L Veditor\L Veditor\bin\Debug\L Veditor.pdb
+E:\Mega\Study\Технологии программирования\L Veditor\L Veditor\bin\Debug\L Veditor.exe
+E:\Mega\Study\Технологии программирования\L Veditor\L Veditor\bin\Debug\L Veditor.pdb
+E:\Mega\Study\Технологии программирования\L Veditor\L Veditor\obj\Debug\L Veditor.csprojResolveAssemblyReference.cache
+E:\Mega\Study\Технологии программирования\L Veditor\L Veditor\obj\Debug\L_Veditor.Form1.resources
+E:\Mega\Study\Технологии программирования\L Veditor\L Veditor\obj\Debug\L_Veditor.Properties.Resources.resources
+E:\Mega\Study\Технологии программирования\L Veditor\L Veditor\obj\Debug\L Veditor.csproj.GenerateResource.Cache
+E:\L Veditor\L Veditor\bin\Debug\L Veditor.exe.config
+E:\L Veditor\L Veditor\obj\Debug\L Veditor.exe
+E:\L Veditor\L Veditor\obj\Debug\L Veditor.pdb
+E:\L Veditor\L Veditor\bin\Debug\L Veditor.exe
+E:\L Veditor\L Veditor\bin\Debug\L Veditor.pdb
+E:\L Veditor\L Veditor\obj\Debug\L Veditor.csprojResolveAssemblyReference.cache
+E:\L Veditor\L Veditor\obj\Debug\L_Veditor.Form1.resources
+E:\L Veditor\L Veditor\obj\Debug\L_Veditor.Properties.Resources.resources
+E:\L Veditor\L Veditor\obj\Debug\L Veditor.csproj.GenerateResource.Cache
+E:\lab1\L Veditor\L Veditor\bin\Debug\L Veditor.exe.config
+E:\lab1\L Veditor\L Veditor\obj\Debug\L Veditor.exe
+E:\lab1\L Veditor\L Veditor\obj\Debug\L Veditor.pdb
+E:\lab1\L Veditor\L Veditor\obj\Debug\L Veditor.csprojResolveAssemblyReference.cache
+E:\lab1\L Veditor\L Veditor\obj\Debug\L_Veditor.Form1.resources
+E:\lab1\L Veditor\L Veditor\obj\Debug\L_Veditor.Properties.Resources.resources
+E:\lab1\L Veditor\L Veditor\obj\Debug\L Veditor.csproj.GenerateResource.Cache
+E:\lab1\L Veditor\L Veditor\bin\Debug\L Veditor.exe
+E:\lab1\L Veditor\L Veditor\bin\Debug\L Veditor.pdb
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab1\L Veditor\L Veditor\bin\Debug\L Veditor.exe.config
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab1\L Veditor\L Veditor\obj\Debug\L Veditor.exe
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab1\L Veditor\L Veditor\obj\Debug\L Veditor.pdb
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab1\L Veditor\L Veditor\bin\Debug\L Veditor.exe
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab1\L Veditor\L Veditor\bin\Debug\L Veditor.pdb
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab1\L Veditor\L Veditor\obj\Debug\L Veditor.csprojResolveAssemblyReference.cache
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab1\L Veditor\L Veditor\obj\Debug\L_Veditor.Form1.resources
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab1\L Veditor\L Veditor\obj\Debug\L_Veditor.Properties.Resources.resources
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab1\L Veditor\L Veditor\obj\Debug\L Veditor.csproj.GenerateResource.Cache
+E:\Mega\Study\Технологии программирования\lab1\L Veditor\L Veditor\bin\Debug\L Veditor.exe.config
+E:\Mega\Study\Технологии программирования\lab1\L Veditor\L Veditor\obj\Debug\L Veditor.exe
+E:\Mega\Study\Технологии программирования\lab1\L Veditor\L Veditor\obj\Debug\L Veditor.pdb
+E:\Mega\Study\Технологии программирования\lab1\L Veditor\L Veditor\bin\Debug\L Veditor.exe
+E:\Mega\Study\Технологии программирования\lab1\L Veditor\L Veditor\bin\Debug\L Veditor.pdb
+E:\Mega\Study\Технологии программирования\lab1\L Veditor\L Veditor\obj\Debug\L Veditor.csprojResolveAssemblyReference.cache
+E:\Mega\Study\Технологии программирования\lab1\L Veditor\L Veditor\obj\Debug\L_Veditor.Form1.resources
+E:\Mega\Study\Технологии программирования\lab1\L Veditor\L Veditor\obj\Debug\L_Veditor.Properties.Resources.resources
+E:\Mega\Study\Технологии программирования\lab1\L Veditor\L Veditor\obj\Debug\L Veditor.csproj.GenerateResource.Cache
+C:\Users\Living\Desktop\lab1\L Veditor\L Veditor\bin\Debug\L Veditor.exe.config
+C:\Users\Living\Desktop\lab1\L Veditor\L Veditor\obj\Debug\L Veditor.exe
+C:\Users\Living\Desktop\lab1\L Veditor\L Veditor\obj\Debug\L Veditor.pdb
+C:\Users\Living\Desktop\lab1\L Veditor\L Veditor\bin\Debug\L Veditor.exe
+C:\Users\Living\Desktop\lab1\L Veditor\L Veditor\bin\Debug\L Veditor.pdb
+C:\Users\Living\Desktop\lab1\L Veditor\L Veditor\obj\Debug\L Veditor.csprojResolveAssemblyReference.cache
+C:\Users\Living\Desktop\lab1\L Veditor\L Veditor\obj\Debug\L_Veditor.Form1.resources
+C:\Users\Living\Desktop\lab1\L Veditor\L Veditor\obj\Debug\L_Veditor.Properties.Resources.resources
+C:\Users\Living\Desktop\lab1\L Veditor\L Veditor\obj\Debug\L Veditor.csproj.GenerateResource.Cache
+C:\Users\Living\Desktop\lab2\L Veditor\L Veditor\bin\Debug\L Veditor.exe.config
+C:\Users\Living\Desktop\lab2\L Veditor\L Veditor\obj\Debug\L Veditor.exe
+C:\Users\Living\Desktop\lab2\L Veditor\L Veditor\obj\Debug\L Veditor.pdb
+C:\Users\Living\Desktop\lab2\L Veditor\L Veditor\obj\Debug\L Veditor.csprojResolveAssemblyReference.cache
+C:\Users\Living\Desktop\lab2\L Veditor\L Veditor\obj\Debug\L_Veditor.Form1.resources
+C:\Users\Living\Desktop\lab2\L Veditor\L Veditor\obj\Debug\L_Veditor.Properties.Resources.resources
+C:\Users\Living\Desktop\lab2\L Veditor\L Veditor\obj\Debug\L Veditor.csproj.GenerateResource.Cache
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab2\L Veditor\L Veditor\bin\Debug\L Veditor.exe.config
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab2\L Veditor\L Veditor\obj\Debug\L Veditor.exe
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab2\L Veditor\L Veditor\obj\Debug\L Veditor.pdb
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab2\L Veditor\L Veditor\obj\Debug\L Veditor.csprojResolveAssemblyReference.cache
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab2\L Veditor\L Veditor\obj\Debug\L_Veditor.Form1.resources
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab2\L Veditor\L Veditor\obj\Debug\L_Veditor.Properties.Resources.resources
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab2\L Veditor\L Veditor\obj\Debug\L Veditor.csproj.GenerateResource.Cache
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab2\L Veditor\L Veditor\bin\Debug\L Veditor.exe
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab2\L Veditor\L Veditor\bin\Debug\L Veditor.pdb
+E:\Mega\Study\Технологии программирования\lab2\L Veditor\L Veditor\bin\Debug\L Veditor.exe.config
+E:\Mega\Study\Технологии программирования\lab2\L Veditor\L Veditor\obj\Debug\L Veditor.exe
+E:\Mega\Study\Технологии программирования\lab2\L Veditor\L Veditor\obj\Debug\L Veditor.pdb
+E:\Mega\Study\Технологии программирования\lab2\L Veditor\L Veditor\bin\Debug\L Veditor.exe
+E:\Mega\Study\Технологии программирования\lab2\L Veditor\L Veditor\bin\Debug\L Veditor.pdb
+E:\Mega\Study\Технологии программирования\lab2\L Veditor\L Veditor\obj\Debug\L Veditor.csprojResolveAssemblyReference.cache
+E:\Mega\Study\Технологии программирования\lab2\L Veditor\L Veditor\obj\Debug\L_Veditor.Form1.resources
+E:\Mega\Study\Технологии программирования\lab2\L Veditor\L Veditor\obj\Debug\L_Veditor.Properties.Resources.resources
+E:\Mega\Study\Технологии программирования\lab2\L Veditor\L Veditor\obj\Debug\L Veditor.csproj.GenerateResource.Cache
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab2\L Veditor\L Veditor\bin\Debug\Form1.resx
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab2\L Veditor\L Veditor\bin\Debug\Form1.cs
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab2\L Veditor\L Veditor\bin\Debug\Form1.Designer.cs
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\L Veditor\L Veditor\bin\Debug\L Veditor.exe.config
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\L Veditor\L Veditor\obj\Debug\L Veditor.exe
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\L Veditor\L Veditor\obj\Debug\L Veditor.pdb
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\L Veditor\L Veditor\obj\Debug\L Veditor.csprojResolveAssemblyReference.cache
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\L Veditor\L Veditor\obj\Debug\L_Veditor.Form1.resources
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\L Veditor\L Veditor\obj\Debug\L_Veditor.Properties.Resources.resources
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\L Veditor\L Veditor\obj\Debug\L Veditor.csproj.GenerateResource.Cache
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\L Veditor\L Veditor\bin\Debug\Form1.resx
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\L Veditor\L Veditor\bin\Debug\Form1.cs
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\L Veditor\L Veditor\bin\Debug\Form1.Designer.cs
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\L Veditor\L Veditor\bin\Debug\L Veditor.exe
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\L Veditor\L Veditor\bin\Debug\L Veditor.pdb
+C:\Users\Living\Desktop\L Veditor\L Veditor\bin\Debug\L Veditor.exe.config
+C:\Users\Living\Desktop\L Veditor\L Veditor\obj\Debug\L Veditor.exe
+C:\Users\Living\Desktop\L Veditor\L Veditor\obj\Debug\L Veditor.pdb
+C:\Users\Living\Desktop\L Veditor\L Veditor\bin\Debug\Form1.resx
+C:\Users\Living\Desktop\L Veditor\L Veditor\bin\Debug\Form1.cs
+C:\Users\Living\Desktop\L Veditor\L Veditor\bin\Debug\Form1.Designer.cs
+C:\Users\Living\Desktop\L Veditor\L Veditor\bin\Debug\L Veditor.exe
+C:\Users\Living\Desktop\L Veditor\L Veditor\bin\Debug\L Veditor.pdb
+C:\Users\Living\Desktop\L Veditor\L Veditor\obj\Debug\L Veditor.csprojResolveAssemblyReference.cache
+C:\Users\Living\Desktop\L Veditor\L Veditor\obj\Debug\L_Veditor.Form1.resources
+C:\Users\Living\Desktop\L Veditor\L Veditor\obj\Debug\L_Veditor.Properties.Resources.resources
+C:\Users\Living\Desktop\L Veditor\L Veditor\obj\Debug\L Veditor.csproj.GenerateResource.Cache
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\new lab  3\L Veditor\L Veditor\bin\Debug\L Veditor.exe.config
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\new lab  3\L Veditor\L Veditor\obj\Debug\L Veditor.exe
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\new lab  3\L Veditor\L Veditor\obj\Debug\L Veditor.pdb
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\new lab  3\L Veditor\L Veditor\bin\Debug\Form1.resx
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\new lab  3\L Veditor\L Veditor\bin\Debug\Form1.cs
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\new lab  3\L Veditor\L Veditor\bin\Debug\Form1.Designer.cs
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\new lab  3\L Veditor\L Veditor\bin\Debug\L Veditor.exe
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\new lab  3\L Veditor\L Veditor\bin\Debug\L Veditor.pdb
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\new lab  3\L Veditor\L Veditor\obj\Debug\L Veditor.csprojResolveAssemblyReference.cache
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\new lab  3\L Veditor\L Veditor\obj\Debug\L_Veditor.Form1.resources
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\new lab  3\L Veditor\L Veditor\obj\Debug\L_Veditor.Properties.Resources.resources
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\new lab  3\L Veditor\L Veditor\obj\Debug\L Veditor.csproj.GenerateResource.Cache
+E:\Mega\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\bin\Debug\L Veditor.exe.config
+E:\Mega\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\obj\Debug\L Veditor.exe
+E:\Mega\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\obj\Debug\L Veditor.csprojResolveAssemblyReference.cache
+E:\Mega\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\obj\Debug\L_Veditor.Form1.resources
+E:\Mega\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\obj\Debug\L Veditor.csproj.GenerateResource.Cache
+E:\Mega\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\bin\Debug\Form1.resx
+E:\Mega\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\bin\Debug\Form1.cs
+E:\Mega\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\bin\Debug\Form1.Designer.cs
+E:\Mega\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\bin\Debug\L Veditor.exe
+E:\Mega\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\bin\Debug\L Veditor.pdb
+E:\Mega\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\obj\Debug\L_Veditor.Properties.Resources.resources
+E:\Mega\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\obj\Debug\L Veditor.pdb
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\bin\Debug\L Veditor.exe.config
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\obj\Debug\L Veditor.exe
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\obj\Debug\L Veditor.pdb
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\bin\Debug\Form1.resx
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\bin\Debug\Form1.cs
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\bin\Debug\Form1.Designer.cs
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\bin\Debug\L Veditor.exe
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\bin\Debug\L Veditor.pdb
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\obj\Debug\L Veditor.csprojResolveAssemblyReference.cache
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\obj\Debug\L_Veditor.Form1.resources
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\obj\Debug\L_Veditor.Properties.Resources.resources
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\lab3\newlab3\L Veditor\L Veditor\obj\Debug\L Veditor.csproj.GenerateResource.Cache
+E:\Mega\Study\Технологии программирования\newlab3\L Veditor\L Veditor\bin\Debug\L Veditor.exe.config
+E:\Mega\Study\Технологии программирования\newlab3\L Veditor\L Veditor\obj\Debug\L Veditor.exe
+E:\Mega\Study\Технологии программирования\newlab3\L Veditor\L Veditor\obj\Debug\L Veditor.pdb
+E:\Mega\Study\Технологии программирования\newlab3\L Veditor\L Veditor\bin\Debug\Form1.resx
+E:\Mega\Study\Технологии программирования\newlab3\L Veditor\L Veditor\bin\Debug\Form1.cs
+E:\Mega\Study\Технологии программирования\newlab3\L Veditor\L Veditor\bin\Debug\Form1.Designer.cs
+E:\Mega\Study\Технологии программирования\newlab3\L Veditor\L Veditor\bin\Debug\L Veditor.exe
+E:\Mega\Study\Технологии программирования\newlab3\L Veditor\L Veditor\bin\Debug\L Veditor.pdb
+E:\Mega\Study\Технологии программирования\newlab3\L Veditor\L Veditor\obj\Debug\L Veditor.csprojResolveAssemblyReference.cache
+E:\Mega\Study\Технологии программирования\newlab3\L Veditor\L Veditor\obj\Debug\L_Veditor.Form1.resources
+E:\Mega\Study\Технологии программирования\newlab3\L Veditor\L Veditor\obj\Debug\L_Veditor.Properties.Resources.resources
+E:\Mega\Study\Технологии программирования\newlab3\L Veditor\L Veditor\obj\Debug\L Veditor.csproj.GenerateResource.Cache
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\newlab3\L Veditor\L Veditor\bin\Debug\L Veditor.exe.config
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\newlab3\L Veditor\L Veditor\obj\Debug\L Veditor.exe
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\newlab3\L Veditor\L Veditor\obj\Debug\L Veditor.pdb
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\newlab3\L Veditor\L Veditor\bin\Debug\Form1.resx
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\newlab3\L Veditor\L Veditor\bin\Debug\Form1.cs
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\newlab3\L Veditor\L Veditor\bin\Debug\Form1.Designer.cs
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\newlab3\L Veditor\L Veditor\bin\Debug\L Veditor.exe
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\newlab3\L Veditor\L Veditor\bin\Debug\L Veditor.pdb
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\newlab3\L Veditor\L Veditor\obj\Debug\L Veditor.csprojResolveAssemblyReference.cache
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\newlab3\L Veditor\L Veditor\obj\Debug\L_Veditor.Form1.resources
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\newlab3\L Veditor\L Veditor\obj\Debug\L_Veditor.Properties.Resources.resources
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\newlab3\L Veditor\L Veditor\obj\Debug\L Veditor.csproj.GenerateResource.Cache
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\bin\Debug\L Veditor.exe.config
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\obj\Debug\L Veditor.exe
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\obj\Debug\L Veditor.pdb
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\bin\Debug\Form1.resx
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\bin\Debug\Form1.cs
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\bin\Debug\Form1.Designer.cs
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\bin\Debug\L Veditor.exe
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\bin\Debug\L Veditor.pdb
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\obj\Debug\L Veditor.csprojResolveAssemblyReference.cache
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\obj\Debug\L_Veditor.Form1.resources
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\obj\Debug\L_Veditor.Properties.Resources.resources
+C:\Users\LIVING\Documents\MEGA\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\obj\Debug\L Veditor.csproj.GenerateResource.Cache
+E:\Mega\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\bin\Debug\L Veditor.exe.config
+E:\Mega\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\obj\Debug\L Veditor.exe
+E:\Mega\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\obj\Debug\L Veditor.pdb
+E:\Mega\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\bin\Debug\Form1.resx
+E:\Mega\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\bin\Debug\Form1.cs
+E:\Mega\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\bin\Debug\Form1.Designer.cs
+E:\Mega\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\bin\Debug\L Veditor.exe
+E:\Mega\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\bin\Debug\L Veditor.pdb
+E:\Mega\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\obj\Debug\L Veditor.csprojResolveAssemblyReference.cache
+E:\Mega\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\obj\Debug\L_Veditor.Form1.resources
+E:\Mega\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\obj\Debug\L_Veditor.Properties.Resources.resources
+E:\Mega\Study\Технологии программирования\ready lab3\L Veditor\L Veditor\obj\Debug\L Veditor.csproj.GenerateResource.Cache
+E:\Mega\Study\Пройденное\Технологии программирования\2 семестр\курсовая\L Veditor\L Veditor\bin\Debug\L Veditor.exe.config
+E:\Mega\Study\Пройденное\Технологии программирования\2 семестр\курсовая\L Veditor\L Veditor\obj\Debug\L Veditor.exe
+E:\Mega\Study\Пройденное\Технологии программирования\2 семестр\курсовая\L Veditor\L Veditor\obj\Debug\L Veditor.pdb
+D:\Mega\Study\Пройденное\Технологии программирования\2 семестр\курсовая\L Veditor\L Veditor\bin\Debug\L Veditor.exe.config
+D:\Mega\Study\Пройденное\Технологии программирования\2 семестр\курсовая\L Veditor\L Veditor\obj\Debug\L Veditor.exe
+D:\Mega\Study\Пройденное\Технологии программирования\2 семестр\курсовая\L Veditor\L Veditor\obj\Debug\L Veditor.pdb
+D:\Mega\Study\Пройденное\Технологии программирования\2 семестр\курсовая\L Veditor\L Veditor\bin\Debug\Form1.resx
+D:\Mega\Study\Пройденное\Технологии программирования\2 семестр\курсовая\L Veditor\L Veditor\bin\Debug\Form1.cs
+D:\Mega\Study\Пройденное\Технологии программирования\2 семестр\курсовая\L Veditor\L Veditor\bin\Debug\Form1.Designer.cs
+D:\Mega\Study\Пройденное\Технологии программирования\2 семестр\курсовая\L Veditor\L Veditor\bin\Debug\L Veditor.exe
+D:\Mega\Study\Пройденное\Технологии программирования\2 семестр\курсовая\L Veditor\L Veditor\bin\Debug\L Veditor.pdb
+D:\Mega\Study\Пройденное\Технологии программирования\2 семестр\курсовая\L Veditor\L Veditor\obj\Debug\L Veditor.csprojResolveAssemblyReference.cache
+D:\Mega\Study\Пройденное\Технологии программирования\2 семестр\курсовая\L Veditor\L Veditor\obj\Debug\L_Veditor.Form1.resources
+D:\Mega\Study\Пройденное\Технологии программирования\2 семестр\курсовая\L Veditor\L Veditor\obj\Debug\L_Veditor.Properties.Resources.resources
+D:\Mega\Study\Пройденное\Технологии программирования\2 семестр\курсовая\L Veditor\L Veditor\obj\Debug\L Veditor.csproj.GenerateResource.Cache
